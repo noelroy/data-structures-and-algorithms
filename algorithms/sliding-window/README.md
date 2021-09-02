@@ -3,7 +3,7 @@
 * Helps convert a O(n^2) solution to O(n*k) solution
 
 How to recognise:
-* On continuous sequence of elements
+* On continuous sequence of elements. Eg: array, string etc
 * Asks for min, max, shortest, longest, contained
 
 Question Variants
